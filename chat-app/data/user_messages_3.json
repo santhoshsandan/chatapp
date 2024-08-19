@@ -1,0 +1,38 @@
+[
+    {
+        "id": 55,
+        "user_id": 3,
+        "message": "goodafternoon",
+        "timestamp": "2024-08-19 11:58:29"
+    },
+    {
+        "id": 54,
+        "user_id": 3,
+        "message": "styrone",
+        "timestamp": "2024-08-19 11:58:26"
+    },
+    {
+        "id": 45,
+        "user_id": 3,
+        "message": "styrone",
+        "timestamp": "2024-08-19 11:55:59"
+    },
+    {
+        "id": 42,
+        "user_id": 3,
+        "message": "hello",
+        "timestamp": "2024-08-19 11:51:48"
+    },
+    {
+        "id": 41,
+        "user_id": 3,
+        "message": "hello",
+        "timestamp": "2024-08-19 11:51:42"
+    },
+    {
+        "id": 39,
+        "user_id": 3,
+        "message": "styrone",
+        "timestamp": "2024-08-19 11:51:36"
+    }
+]

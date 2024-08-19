@@ -1,0 +1,26 @@
+[
+    {
+        "id": 11,
+        "user_id": 9,
+        "message": "hii",
+        "timestamp": "2024-08-19 11:28:49"
+    },
+    {
+        "id": 4,
+        "user_id": 9,
+        "message": "goodafternoon",
+        "timestamp": "2024-08-19 11:28:09"
+    },
+    {
+        "id": 2,
+        "user_id": 9,
+        "message": "hello",
+        "timestamp": "2024-08-19 11:28:01"
+    },
+    {
+        "id": 1,
+        "user_id": 9,
+        "message": "hello",
+        "timestamp": "2024-08-19 11:26:46"
+    }
+]
